@@ -1,0 +1,10 @@
+{
+  "name": "com.amabie.extendedfloat",
+  "displayName": "ExtendedFloat",
+  "version": "1.0.0",
+  "unity": "6000.0",
+  "description": "extended float (express float with BigInteger)",
+  "author": {
+    "name": "amabie-mamoru"
+  }
+}
